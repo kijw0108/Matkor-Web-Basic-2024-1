@@ -1,0 +1,20 @@
+#all-div {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	height: 500px;
+}
+
+#flex-div {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	height: 100%;
+}
+
+.cnt {
+	color: red;
+	font-size: 4rem;
+}
